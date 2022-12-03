@@ -4,3 +4,4 @@ ssh-add ~/.ssh/id_ed25519
 
 remember to choose ssh than https;
 $ git remote set-url origin git@github.com:md-kaiser-ali-coder/demo.git
+hello buddy
